@@ -197,8 +197,9 @@ int main(void) {
     return 0;
 }
 
+// [Result]
 // Hello! My name is Jaclyn whose job is system enginner. You can contact me at jaclyn@jupyter.com.
 // Hello! My name is Jaclyn whose job is Senior system enginner. You can contact me at jaclyn@engr.internal.jupyter.com.
-
+//
 // (Extended) Hello! My name is Lee Garam whose job is hacker. You can contact me either knightchaser@hackclub.gcc.ac.kr or blog.naver.com/luexr and my personal ID is 17AZX31.
 // (Extended) Hello! My name is Lee Garam whose job is pro hacker. You can contact me either knightchaser@hacker.one or blog.naver.com/luexr and my personal ID is 17AZX32.
